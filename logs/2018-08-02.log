@@ -1,0 +1,86 @@
+2018-08-02 23:12:08,605 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:48] Starting SpringbootApplication on USERCHI-NLCCGS7 with PID 8756 (D:\Pratice\springboot\demo-rs\target\classes started by Administrator in D:\Pratice\springboot)
+2018-08-02 23:12:08,627 INFO  [main] c.l.s.SpringbootApplication [SpringApplication.java:665] The following profiles are active: test
+2018-08-02 23:12:08,762 INFO  [main] o.s.c.a.AnnotationConfigApplicationContext [AbstractApplicationContext.java:582] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@8909f18: startup date [Thu Aug 02 23:12:08 CST 2018]; root of context hierarchy
+2018-08-02 23:12:09,848 INFO  [main] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:431] Registering beans for JMX exposure on startup
+2018-08-02 23:12:09,860 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:57] Started SpringbootApplication in 1.676 seconds (JVM running for 3.419)
+2018-08-02 23:12:09,862 INFO  [Thread-5] o.s.c.a.AnnotationConfigApplicationContext [AbstractApplicationContext.java:987] Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@8909f18: startup date [Thu Aug 02 23:12:08 CST 2018]; root of context hierarchy
+2018-08-02 23:12:09,863 INFO  [Thread-5] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:449] Unregistering JMX-exposed beans on shutdown
+2018-08-02 23:14:02,565 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:48] Starting SpringbootApplication on USERCHI-NLCCGS7 with PID 9492 (D:\Pratice\springboot\demo-rs\target\classes started by Administrator in D:\Pratice\springboot)
+2018-08-02 23:14:02,574 INFO  [main] c.l.s.SpringbootApplication [SpringApplication.java:665] The following profiles are active: test
+2018-08-02 23:14:02,721 INFO  [main] o.s.c.a.AnnotationConfigApplicationContext [AbstractApplicationContext.java:582] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@8909f18: startup date [Thu Aug 02 23:14:02 CST 2018]; root of context hierarchy
+2018-08-02 23:14:03,947 INFO  [main] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:431] Registering beans for JMX exposure on startup
+2018-08-02 23:14:03,961 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:57] Started SpringbootApplication in 2.053 seconds (JVM running for 4.731)
+2018-08-02 23:14:03,962 INFO  [Thread-5] o.s.c.a.AnnotationConfigApplicationContext [AbstractApplicationContext.java:987] Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@8909f18: startup date [Thu Aug 02 23:14:02 CST 2018]; root of context hierarchy
+2018-08-02 23:14:03,964 INFO  [Thread-5] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:449] Unregistering JMX-exposed beans on shutdown
+2018-08-02 23:22:35,732 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:48] Starting SpringbootApplication on USERCHI-NLCCGS7 with PID 9200 (D:\Pratice\springboot\demo-rs\target\classes started by Administrator in D:\Pratice\springboot)
+2018-08-02 23:22:35,737 INFO  [main] c.l.s.SpringbootApplication [SpringApplication.java:665] The following profiles are active: test
+2018-08-02 23:22:35,838 INFO  [main] o.s.c.a.AnnotationConfigApplicationContext [AbstractApplicationContext.java:582] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@8909f18: startup date [Thu Aug 02 23:22:35 CST 2018]; root of context hierarchy
+2018-08-02 23:22:37,051 INFO  [main] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:431] Registering beans for JMX exposure on startup
+2018-08-02 23:22:37,064 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:57] Started SpringbootApplication in 1.915 seconds (JVM running for 3.809)
+2018-08-02 23:22:37,065 INFO  [Thread-6] o.s.c.a.AnnotationConfigApplicationContext [AbstractApplicationContext.java:987] Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@8909f18: startup date [Thu Aug 02 23:22:35 CST 2018]; root of context hierarchy
+2018-08-02 23:22:37,067 INFO  [Thread-6] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:449] Unregistering JMX-exposed beans on shutdown
+2018-08-02 23:23:16,818 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:48] Starting SpringbootApplication on USERCHI-NLCCGS7 with PID 5188 (D:\Pratice\springboot\demo-rs\target\classes started by Administrator in D:\Pratice\springboot)
+2018-08-02 23:23:16,842 INFO  [main] c.l.s.SpringbootApplication [SpringApplication.java:665] The following profiles are active: test
+2018-08-02 23:23:16,929 INFO  [main] o.s.c.a.AnnotationConfigApplicationContext [AbstractApplicationContext.java:582] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@8909f18: startup date [Thu Aug 02 23:23:16 CST 2018]; root of context hierarchy
+2018-08-02 23:23:18,071 INFO  [main] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:431] Registering beans for JMX exposure on startup
+2018-08-02 23:23:18,083 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:57] Started SpringbootApplication in 1.871 seconds (JVM running for 3.719)
+2018-08-02 23:23:18,084 INFO  [Thread-6] o.s.c.a.AnnotationConfigApplicationContext [AbstractApplicationContext.java:987] Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@8909f18: startup date [Thu Aug 02 23:23:16 CST 2018]; root of context hierarchy
+2018-08-02 23:23:18,086 INFO  [Thread-6] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:449] Unregistering JMX-exposed beans on shutdown
+2018-08-02 23:34:57,727 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:48] Starting SpringbootApplication on USERCHI-NLCCGS7 with PID 9924 (D:\Pratice\springboot\demo-rs\target\classes started by Administrator in D:\Pratice\springboot)
+2018-08-02 23:34:57,738 INFO  [main] c.l.s.SpringbootApplication [SpringApplication.java:665] The following profiles are active: test
+2018-08-02 23:34:57,876 INFO  [main] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext [AbstractApplicationContext.java:582] Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3ce1e309: startup date [Thu Aug 02 23:34:57 CST 2018]; root of context hierarchy
+2018-08-02 23:34:58,282 INFO  [background-preinit] o.h.v.i.u.Version [Version.java:30] HV000001: Hibernate Validator 5.2.4.Final
+2018-08-02 23:34:59,816 INFO  [main] o.s.b.c.e.t.TomcatEmbeddedServletContainer [TomcatEmbeddedServletContainer.java:87] Tomcat initialized with port(s): 80 (http)
+2018-08-02 23:34:59,828 INFO  [main] o.a.c.c.StandardService [DirectJDKLog.java:179] Starting service Tomcat
+2018-08-02 23:34:59,830 INFO  [main] o.a.c.c.StandardEngine [DirectJDKLog.java:179] Starting Servlet Engine: Apache Tomcat/8.5.6
+2018-08-02 23:34:59,953 INFO  [localhost-startStop-1] o.a.c.c.C.[.[.[/demo] [DirectJDKLog.java:179] Initializing Spring embedded WebApplicationContext
+2018-08-02 23:34:59,953 INFO  [localhost-startStop-1] o.s.w.c.ContextLoader [EmbeddedWebApplicationContext.java:276] Root WebApplicationContext: initialization completed in 2077 ms
+2018-08-02 23:35:00,254 INFO  [localhost-startStop-1] o.s.b.w.s.ServletRegistrationBean [ServletRegistrationBean.java:190] Mapping servlet: 'dispatcherServlet' to [/]
+2018-08-02 23:35:00,262 INFO  [localhost-startStop-1] o.s.b.w.s.FilterRegistrationBean [AbstractFilterRegistrationBean.java:258] Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-08-02 23:35:00,263 INFO  [localhost-startStop-1] o.s.b.w.s.FilterRegistrationBean [AbstractFilterRegistrationBean.java:258] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-08-02 23:35:00,263 INFO  [localhost-startStop-1] o.s.b.w.s.FilterRegistrationBean [AbstractFilterRegistrationBean.java:258] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-08-02 23:35:00,264 INFO  [localhost-startStop-1] o.s.b.w.s.FilterRegistrationBean [AbstractFilterRegistrationBean.java:258] Mapping filter: 'requestContextFilter' to: [/*]
+2018-08-02 23:35:00,760 INFO  [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:534] Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3ce1e309: startup date [Thu Aug 02 23:34:57 CST 2018]; root of context hierarchy
+2018-08-02 23:35:00,862 INFO  [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-08-02 23:35:00,864 INFO  [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-08-02 23:35:00,916 INFO  [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:354] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-08-02 23:35:00,917 INFO  [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:354] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-08-02 23:35:00,980 INFO  [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:354] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-08-02 23:35:01,271 INFO  [main] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:431] Registering beans for JMX exposure on startup
+2018-08-02 23:35:01,292 INFO  [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:179] Initializing ProtocolHandler ["http-nio-80"]
+2018-08-02 23:35:01,308 INFO  [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:179] Starting ProtocolHandler [http-nio-80]
+2018-08-02 23:35:01,332 INFO  [main] o.a.t.u.n.NioSelectorPool [DirectJDKLog.java:179] Using a shared selector for servlet write/read
+2018-08-02 23:35:01,366 INFO  [main] o.s.b.c.e.t.TomcatEmbeddedServletContainer [TomcatEmbeddedServletContainer.java:185] Tomcat started on port(s): 80 (http)
+2018-08-02 23:35:01,373 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:57] Started SpringbootApplication in 4.416 seconds (JVM running for 6.246)
+2018-08-02 23:36:50,313 INFO  [http-nio-80-exec-1] o.a.c.c.C.[.[.[/demo] [DirectJDKLog.java:179] Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-08-02 23:36:50,313 INFO  [http-nio-80-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:489] FrameworkServlet 'dispatcherServlet': initialization started
+2018-08-02 23:36:50,339 INFO  [http-nio-80-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:508] FrameworkServlet 'dispatcherServlet': initialization completed in 26 ms
+2018-08-02 23:40:32,409 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:48] Starting SpringbootApplication on USERCHI-NLCCGS7 with PID 9896 (D:\Pratice\springboot\demo-rs\target\classes started by Administrator in D:\Pratice\springboot)
+2018-08-02 23:40:32,417 INFO  [main] c.l.s.SpringbootApplication [SpringApplication.java:665] The following profiles are active: test
+2018-08-02 23:40:32,578 INFO  [main] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext [AbstractApplicationContext.java:582] Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3ce1e309: startup date [Thu Aug 02 23:40:32 CST 2018]; root of context hierarchy
+2018-08-02 23:40:32,793 INFO  [background-preinit] o.h.v.i.u.Version [Version.java:30] HV000001: Hibernate Validator 5.2.4.Final
+2018-08-02 23:40:34,335 INFO  [main] o.s.b.c.e.t.TomcatEmbeddedServletContainer [TomcatEmbeddedServletContainer.java:87] Tomcat initialized with port(s): 80 (http)
+2018-08-02 23:40:34,346 INFO  [main] o.a.c.c.StandardService [DirectJDKLog.java:179] Starting service Tomcat
+2018-08-02 23:40:34,347 INFO  [main] o.a.c.c.StandardEngine [DirectJDKLog.java:179] Starting Servlet Engine: Apache Tomcat/8.5.6
+2018-08-02 23:40:34,455 INFO  [localhost-startStop-1] o.a.c.c.C.[.[.[/demo] [DirectJDKLog.java:179] Initializing Spring embedded WebApplicationContext
+2018-08-02 23:40:34,455 INFO  [localhost-startStop-1] o.s.w.c.ContextLoader [EmbeddedWebApplicationContext.java:276] Root WebApplicationContext: initialization completed in 1877 ms
+2018-08-02 23:40:34,641 INFO  [localhost-startStop-1] o.s.b.w.s.ServletRegistrationBean [ServletRegistrationBean.java:190] Mapping servlet: 'dispatcherServlet' to [/]
+2018-08-02 23:40:34,646 INFO  [localhost-startStop-1] o.s.b.w.s.FilterRegistrationBean [AbstractFilterRegistrationBean.java:258] Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-08-02 23:40:34,647 INFO  [localhost-startStop-1] o.s.b.w.s.FilterRegistrationBean [AbstractFilterRegistrationBean.java:258] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-08-02 23:40:34,647 INFO  [localhost-startStop-1] o.s.b.w.s.FilterRegistrationBean [AbstractFilterRegistrationBean.java:258] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-08-02 23:40:34,647 INFO  [localhost-startStop-1] o.s.b.w.s.FilterRegistrationBean [AbstractFilterRegistrationBean.java:258] Mapping filter: 'requestContextFilter' to: [/*]
+2018-08-02 23:40:34,980 INFO  [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:534] Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3ce1e309: startup date [Thu Aug 02 23:40:32 CST 2018]; root of context hierarchy
+2018-08-02 23:40:35,041 INFO  [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-08-02 23:40:35,042 INFO  [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-08-02 23:40:35,078 INFO  [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:354] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-08-02 23:40:35,079 INFO  [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:354] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-08-02 23:40:35,115 INFO  [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:354] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-08-02 23:40:35,294 INFO  [main] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:431] Registering beans for JMX exposure on startup
+2018-08-02 23:40:35,309 INFO  [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:179] Initializing ProtocolHandler ["http-nio-80"]
+2018-08-02 23:40:35,319 INFO  [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:179] Starting ProtocolHandler [http-nio-80]
+2018-08-02 23:40:35,337 INFO  [main] o.a.t.u.n.NioSelectorPool [DirectJDKLog.java:179] Using a shared selector for servlet write/read
+2018-08-02 23:40:35,359 INFO  [main] o.s.b.c.e.t.TomcatEmbeddedServletContainer [TomcatEmbeddedServletContainer.java:185] Tomcat started on port(s): 80 (http)
+2018-08-02 23:40:35,364 INFO  [main] c.l.s.SpringbootApplication [StartupInfoLogger.java:57] Started SpringbootApplication in 3.651 seconds (JVM running for 5.454)
+2018-08-02 23:41:07,777 INFO  [http-nio-80-exec-1] o.a.c.c.C.[.[.[/demo] [DirectJDKLog.java:179] Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-08-02 23:41:07,777 INFO  [http-nio-80-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:489] FrameworkServlet 'dispatcherServlet': initialization started
+2018-08-02 23:41:07,802 INFO  [http-nio-80-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:508] FrameworkServlet 'dispatcherServlet': initialization completed in 25 ms

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <dependencies>
+        <dependency>
+            <groupId>com.lcp.springboot</groupId>
+            <artifactId>demo-cs</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!--缺少此jar包，导致@Mapper注解无效-->
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>1.3.1</version>
+        </dependency>
+    </dependencies>
+
+    <parent>
+        <groupId>com.lcp.springboot</groupId>
+        <artifactId>demo-parent</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../demo-parent</relativePath>
+    </parent>
+    <groupId>com.lcp.springboot</groupId>
+    <artifactId>demo-rs</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>../demo-cs/src/main/resources/mapper</directory>
+                <targetPath>${basedir}/target/classes/mapper</targetPath>
+                <filtering>true</filtering>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+             </plugin>
+        </plugins>
+    </build>
+</project>
